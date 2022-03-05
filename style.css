@@ -1,0 +1,25 @@
+.pvtAxisContainer li {
+    padding: 3px 2px !important;
+}
+.pvtAttr {
+    font-family:cursive;
+    font-size: 14px;
+    color:blue;
+}
+.pvtRenderer {
+    font-size: 12px !important;
+    background-color: lightgreen;
+}
+.pvtAggregator {
+    font-size: 12px !important;
+    background-color: lightblue;
+}
+.pvtAttrdropdown {
+    font-family:cursive !important;
+    font-size: 14px !important;
+    color:blue;
+    background-color: lightgrey;
+}
+.pvtUnused {
+    background-color: lightyellow !important;
+}
